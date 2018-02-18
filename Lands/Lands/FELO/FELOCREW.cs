@@ -6,5 +6,6 @@ namespace Lands.FELO
 {
     class FELOCREW
     {
+        public int MyProperty { get; set; }
     }
 }
